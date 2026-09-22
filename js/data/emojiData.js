@@ -43,6 +43,7 @@ export const EMOJI = {
   '\ue000': '😅',
   '\ue001': '😢',
   '\ue002': '😒',
+  '\ue003': '😕',
 };
 
 // The twelve above, and only those, are characters you could actually type. A

@@ -215,4 +215,25 @@ export const LETTER_BOOKS = {
       "I love you, my Jory ^",
     ],
   },
+  letter9: {
+    title: 'Letter 9',
+    date: 'TUESDAY 22/09/2026',
+    cover: 0xf7b6cb,
+    coverDark: 0xe08fae,
+    bound: false,
+    icon: 'letter_closed',
+    pages: [
+      "Hi baby, sorry again for not being able to write you a letter today morning  I hate that I let you go to school without a letter to read today, I'm sorry I wasn't so present today.",
+
+      "I love you a lot sweetheart. I hope you're having a good time at school right now and maybe having fun too @ I love you with all my heart and I love how joyful you always are with me, you uphold me and are so careful with me always. I love you so much Jory. Study very hard in school, and don't get distracted, and also don't wink at your teachers... Hope you're not being mischievous right now...",
+
+      "I love you so much baby, and I really miss you right now. I can't stop thinking about you and I want to be with you again. Even though I know you're coming back later, it still feels like days when you're away from me for even 2 minutes. I love you, I really really really love you baby",
+
+      "Today you are gonna WIN and get president Jory of the world, my mentor Jory ##",
+
+      "You work so hard baby and it's so amazing to me how much effort you put into everything, even yesterday you were working so hard despite having a tutor who didn't know what was going on.. Even then you do amazing, and when you decided to study last night, being so attentive and studious, I love seeing that from you, keep it up baby @^",
+
+      "I love you with all my heart sweetheart, I genuinely do. I hope you're doing okay and feeling good right now baby, study well sweetheart, and come back to me soon, I miss you. I love you ^",
+    ],
+  },
 };
