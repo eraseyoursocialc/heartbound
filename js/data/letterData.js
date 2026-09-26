@@ -255,4 +255,23 @@ export const LETTER_BOOKS = {
       "I love you jellyfish ^",
     ],
   },
+  letter11: {
+    title: 'Letter 11',
+    date: 'THURSDAY 24/09/2026',
+    cover: 0xf7b6cb,
+    coverDark: 0xe08fae,
+    bound: false,
+    icon: 'letter_closed',
+    pages: [
+      "Hi baby, even though today you don't have school, I wanna write you letter just cos technically, it is a school day so that means you should be getting your daily letter #^",
+
+      "I love you so much, thank you for encouraging me and holding me up yesterday and many other days before when I felt down, when I felt low and as if I was not getting anywhere near what I wanted to achieve. During those times I always feel as if nothing good is happening in my life and nothing goes my way, but then you text, you talk to me and, I remember and I realize that you're the one thing that has gone right. You're the one thing I can think of and say that it's okay for whatever happens in my life because I have Jory by my side, taking care of me and loving me like there's no end.",
+
+      "I love you with all of my heart and I'm grateful, more than grateful that you let me love you, and that you're the woman I get to love. I get to love the super cool popular MENTOR Jory #",
+
+      "How lucky I am to love a woman of such elegance and beauty, it still blows my mind. Everytime I see you, I realize that this is my woman of the universe, the most beautiful and amazing woman there can ever be in the history of evers. I love you so much Jory, I love you with all of my heart and I'll always and always love you more every single day, because there's no one else but you, that deserves the best of me, the best of this world, the best of everything. And I hope I get to give you that forever.",
+
+      "I love you my beautiful angel. I love you my pretty bunny, I love you Jory ^",
+    ],
+  },
 };
