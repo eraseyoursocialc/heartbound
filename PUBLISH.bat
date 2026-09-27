@@ -63,7 +63,7 @@ echo     PUBLISHED.
 echo   ------------------------------------------
 echo.
 echo   Give it about a minute, then look at:
-echo   https://headfirstdownhill.github.io/heartbound/
+echo   https://eraseyoursocialc.github.io/heartbound/
 echo.
 echo   If the page looks the same at first, that is normal - your
 echo   phone or browser is showing you the old copy. Pull down to

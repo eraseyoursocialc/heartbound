@@ -26,7 +26,7 @@ const { build, commitMessage } = require('./add-letter.js');
 const ROOT = path.join(__dirname, '..');
 const LETTERS_DIR = path.join(ROOT, 'letters');
 const PORT = 4173;
-const LIVE_URL = 'https://headfirstdownhill.github.io/heartbound/';
+const LIVE_URL = 'https://eraseyoursocialc.github.io/heartbound/';
 
 // Handed to the page it serves and required on every action.
 const TOKEN = crypto.randomBytes(16).toString('hex');

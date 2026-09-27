@@ -229,7 +229,7 @@ cancels it and nothing goes anywhere.
 
 Then wait about a minute and open:
 
-**https://headfirstdownhill.github.io/heartbound/**
+**https://eraseyoursocialc.github.io/heartbound/**
 
 > If it still looks the same, that's normal — your phone is showing you the old
 > copy. Pull down to refresh, or wait a few minutes.
