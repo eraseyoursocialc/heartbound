@@ -297,4 +297,48 @@ export const LETTER_BOOKS = {
       "I LOVE YOU MENTOR JORY ^^^^^",
     ],
   },
+  letter13: {
+    title: 'Letter 13',
+    date: 'MONDAY 28/09/2026',
+    cover: 0xf7b6cb,
+    coverDark: 0xe08fae,
+    bound: false,
+    icon: 'letter_closed',
+    pages: [
+      "Good morning my beautiful little girl ^",
+
+      "I hope you slept well baby, I love you so much. I want you to know that you're the most hardworking, and smartest girl ever. I know you might be thinking a lot today about your studies and tests, and I want you to know that you're doing everything right baby. You're not doing anything wrong, neither does anything need to have been done different. You'll obviously be critical about yourself, you're the one within the situation, feeling it all. But I'm saying all of this because I'm the one seeing it from the outside and you can trust my words that you're doing all good baby.",
+
+      "You know I was in this exact same situation with my exams too, when I got a bad grade in economics, that too in an MCQ paper I got really mad at myself... Because how come I'm messing up an MCQ paper. Maybe if I studied since 2 days ago instead of just yesterday I would've had more practice and done better. And I know you think the same way baby. My answer to that is, who knows? Who knows how it would've gone if you did so and so differently. You can say, there would've been a obviously big difference, but even then, who's to say that's the case? You couldn't confirm it nor deny it. So why dwell on it so much sweetheart? You'd just be suffering more in your mind than you actually are down at earth.",
+
+      "So take it easy my bunny, everything's okay, everything's going as it should be going. Everything that happens, happens for a good reason, even if it's as simple as studying a day earlier, or even if it's as complex and annoying as being stressed out. It all has meaning, and it's all in your favour. Everything you do and happens to you is in your favour whether that's right now or later. Don't let this be something that bothers you, weighs your shoulders, or wavers your beautiful soft heart. You're doing amazing, and that's coming from someone who's made it past those exact situations, that exact time of life. Take my word baby, lay it all on me and go do your best. That's what you're good at, doing the best.",
+
+      "I'm proud of you sweetheart, and you should be proud of yourself too. I'm sure the Jory from last year, the Jory from 2 years ago, the Jory from last month, the Jory from the beginning of this year would look at you right now and think you've done really well.",
+
+      "This letter to you isn't just about what you felt yesterday, it isn't only for today, it's for every single time that you feel this way about yourself, or about anything. I want you to hold yourself up baby, the same way you hold me up, the same way you strengthen me and love me, i want you to strengthen yourself and love yourself the same way. There's no one more deserving of your love and goodness other than you.",
+
+      "Hold yourself together baby, take everything one step at a time, no matter how big or small that step is. It is still one step in front of the other, and that's all that matters.",
+
+      "So today, take one step at a time, because even the people who have succeeded, had to take one step at a time too.",
+
+      "I love you my beautiful girl, I love you my jellyfish. You're the most admirable, and strongest woman I have ever seen. That's why I say all of this to you, because the Jory I know never falters, she's the MENTOR JORY #@",
+
+      "I love you baby, I love you mentor Jory, I love you. ^",
+    ],
+  },
+  letter14: {
+    title: 'Letter 14',
+    date: 'TUESDAY 29/09/2026',
+    cover: 0xf7b6cb,
+    coverDark: 0xe08fae,
+    bound: false,
+    icon: 'letter_closed',
+    pages: [
+      "Hi my baby @@ I'm sorry again that I couldn't write a letter for you today morning.",
+
+      "I love you with all my heart, and I miss you dearly as I write this. I love you so much Jory. I love how despite the pressure you face from school, you keep doing what you're supposed to do and you do it amazingly. You study properly, and you really live up to that title of Mentor Jory #",
+
+      "I'm always so amazed by how much hard work you put in, how dedicated you are to whatever it is that you do, even the love that you give me, the care that you give me, the scoldings you give me. I love seeing all of it. I love you baby, I hope right now you're studying really well and focusing SUPER hard. My beautiful sweetest schoolgirl Jory @@^^. Don't be so mischievous today.. only a little. I love you baby, I'll be waiting for you, I love you so much, I miss you my jellyfish ^",
+    ],
+  },
 };
