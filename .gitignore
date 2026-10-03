@@ -1,6 +1,11 @@
 # Android signing key - never commit to a public repo
 android/heartbound.keystore
 
+# Git Credential Manager diagnostics. PUBLISH.bat does `git add -A`, so without
+# this a stray run of `git-credential-manager diagnose` would put a log full of
+# account and machine detail onto a public website.
+gcm-diagnose.log
+
 # Build outputs, regenerable from the .ps1 scripts
 heartbound-web.zip
 android/heartbound-apk.zip
