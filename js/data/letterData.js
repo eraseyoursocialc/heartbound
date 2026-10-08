@@ -461,4 +461,46 @@ export const LETTER_BOOKS = {
       "I love you my beautiful girl, I love you so much, come to me soon baby ^^^",
     ],
   },
+  letter21: {
+    title: 'Letter 21',
+    date: 'WEDNESDAY 07/10/2026',
+    cover: 0xf7b6cb,
+    coverDark: 0xe08fae,
+    bound: false,
+    icon: 'letter_closed',
+    pages: [
+      "Hi my beautiful girl, good morning again @, I love you so much baby, I hope you slept well last night ^^",
+
+      "I'm so proud of you for being able to get through all those tests and working so hard, studying so hard to do so good. I love seeing you be so amazing baby *, you're amazing and I love that about you. You're beautiful and so SO adorable with how much effort you put into yourself and into everything else around you.",
+
+      "I still get so amazed at how you handle everything, how you handle those frustrating moments when you're feeling your best or thinking too much, how you're able to love so beautifully even when the next day is your least favourite classes or even tests. I remember when long before your school started, you told me about how you AND WOW YOU JUST SENT ME A VIDEO OF YOU RIGHT NOW AS I'M TYPING THIS LETTER AND YOU LOOK SO BEAUTIFUL BABY. I KNOW I PROBABLY WENT CRAZY IN OUR TEXTS BUT WOW I CAN'T EVEN HELP IT, YOU'RE SO BEAUTIFUL I LOVE YOU.",
+
+      "Oh my gosh baby you're beautiful. I look at you and all I can ever see is just a vast beauty in your eyes and your face it's so captivating. You're more beautiful than any thing this world or universe could produce. I'm so unbelievably lucky to even have you talking to me... You're so perfect, baby you're perfect in every single way ever, and not a single word in any language to ever exist in this world could bring into a sentence of how much I love you and how perfect of a woman you are.",
+
+      "I love you Jory, I love the person you are, I love the woman you are baby. You'll always be my beautiful perfect girl, my jellyfish sweatygirl sweetheart ^^^^ Have a good day at school today my love, I LOVE YOU ^^*@",
+    ],
+  },
+  letter22: {
+    title: 'Letter 22',
+    date: 'THURSDAY 08/10/2026',
+    cover: 0xf7b6cb,
+    coverDark: 0xe08fae,
+    bound: false,
+    icon: 'letter_closed',
+    pages: [
+      "good morning my love, I really miss you. You really mean everything to me and I hope I get to see more of you, more of your love, more of who you are, more of my beautiful girl.",
+
+      "I really love you Jory and all I want is you. Truly all I want is you Jory. Even thinking of talking to someone else physically repulses me.",
+
+      "I love you and all of my heart belongs to you and it always will no matter what. You're the greatest thing that has ever happened me. Wallah you are.",
+
+      "I'll always be grateful for the woman you are to me, the woman you are at all. You're truly amazing and I love seeing that.",
+
+      "Thank you for all the love you give me. But unfortunately, I'm too greedy so I'll never get enough of it. I'll never get enough of you. You're all I want and you're all I need.",
+
+      "I love you Jory, I love you with all my heart my jellyfish ^",
+
+      "I love you forever",
+    ],
+  },
 };
